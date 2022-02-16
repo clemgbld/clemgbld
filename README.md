@@ -1,10 +1,12 @@
-### Hi there 👋, Clement Gombauld
-#### Developement and Design
+# Clement Gombauld
+## Development and Design
 ![Development and Design](https://github.com/clemgbld/clemgbld/blob/main/final.PNG)
 
 I'm Clement from France, and I do content on Development and Design. I really enjoy learning languages and frameworks like React and i'm currently learning React Native. I also enjoy wireframing, ui, ux, and design in general.
 
-Skills: REACT/ NEXT JS / JS / TS /HTML / CSS
+## Skills and Experience
+* ⚛ React, Next JS
+* 💻 HTML, CSS, JS
 
 - 🔭 I’m currently working on https://clementgombauld.netlify.app/ 
 - 🌱 I’m currently learning React Native 
