@@ -1,6 +1,6 @@
 ### Hi there 👋, Clement Gombauld
 #### Developement and Design
-![Development and Design](https://github.com/clemgbld/clemgbld/blob/main/Capture65.PNG)
+![Development and Design](https://github.com/clemgbld/clemgbld/blob/main/final.PNG)
 
 I'm Clement from France, and I do content on Development and Design. I really enjoy learning languages and frameworks like React and i'm currently learning React Native. I also enjoy wireframing, ui, ux, and design in general.
 
