@@ -1,6 +1,6 @@
 ### Hi there 👋, Clement Gombauld
 #### Developement and Design
-![Developement and Design](https://pbs.twimg.com/profile_banners/3207003538/1645002720/600x200)
+![Development and Design](https://pbs.twimg.com/profile_banners/3207003538/1645002720/600x200)
 
 I'm Clement from France, and I do content on Development and Design. I really enjoy learning languages and frameworks like React and i'm currently learning React Native. I also enjoy wireframing, ui, ux, and design in general.
 
